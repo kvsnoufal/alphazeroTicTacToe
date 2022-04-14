@@ -3,7 +3,7 @@
 Coding AlphaZero algorithm from scratch to play the game of TicTacToe and it never loses!!
 
 
-Pls checkout the [medium article] for a quick overview.
+Pls checkout the [medium article](https://medium.com/analytics-vidhya/mastering-tictactoe-with-alphazero-cc28998bf36c) for a quick overview.
 
 Demo: https://alphazerotictactoe.herokuapp.com/
 
