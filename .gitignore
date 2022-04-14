@@ -1,0 +1,6 @@
+frontend/.devcontainer
+tictactoefrontend/node_modules
+tictactoefrontend/public
+src_dev/output_tictac
+src_dev/.devcontainer
+src_dev/__pycache__

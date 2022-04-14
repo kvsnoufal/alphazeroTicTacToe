@@ -1,0 +1,4 @@
+tictactoefrontend/node_modules
+.dockerignore
+Dockerfile
+.devcontainer
